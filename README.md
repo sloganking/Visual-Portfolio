@@ -19,3 +19,7 @@ https://github.com/sloganking/quick-assistant
 
 https://github.com/user-attachments/assets/ac2b8764-e79e-4aa2-9a5d-ad6c9aa4cd79
 
+## 8-Bit-Computer
+
+https://github.com/user-attachments/assets/97940c38-e081-4423-aba6-0c5ad2553f23
+
