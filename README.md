@@ -1,6 +1,4 @@
-# Projects-Showcase
-
-
+# Visual-Portfolio
 
 ## codevis-gui
 https://github.com/sloganking/codevis-gui
