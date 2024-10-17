@@ -24,3 +24,11 @@ https://github.com/user-attachments/assets/97940c38-e081-4423-aba6-0c5ad2553f23
 
 https://github.com/user-attachments/assets/82492e5a-b959-4e3a-94d8-953a1c720be0
 
+## 2D-function-viewer
+
+https://github.com/sloganking/2D-function-viewer
+
+Renders 2D functions and lets the user move the camera to explore them. 
+
+https://github.com/user-attachments/assets/15084a01-33db-46be-bd10-51cdc2326889
+
