@@ -20,7 +20,9 @@ https://github.com/user-attachments/assets/82492e5a-b959-4e3a-94d8-953a1c720be0
 ## Quick-Assistant
 https://github.com/sloganking/quick-assistant
 
-⚠️Video Has Sound⚠️
+> [!IMPORTANT]
+> ⚠️This video contains sound and is intended to be listened to with audio on.⚠️
+
 
 https://github.com/user-attachments/assets/ac2b8764-e79e-4aa2-9a5d-ad6c9aa4cd79
 
